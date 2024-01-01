@@ -1,6 +1,6 @@
 # Duino-clock
 ## About
-  A simple arduino digital clock + temperature and humidity room monitoring
+  A simple Arduino digital clock with buttons for adjust time + temperature and humidity room monitoring
 ## Materials
    * Arduino.
    * RTC DS1307
@@ -8,7 +8,7 @@
    * Lcd 16x2 I2C.
    * Wirings.
    * adaptor 12v.
-## Wirring diagram
+## Wiring diagram
   ![wiring-diagram-image](img/wiring.jpg)
 ## Galery
   Coming soon...

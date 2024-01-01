@@ -8,7 +8,7 @@
    * Wirings.
    * adaptor 12v.
 ## Wirring diagram
-  ![wiring-diagram-image](wiring.jpg)
+  ![wiring-diagram-image](img/wiring.jpg)
 ## Galery
   Coming soon...
 ## Demo Video
